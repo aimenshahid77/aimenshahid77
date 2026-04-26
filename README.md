@@ -4,7 +4,7 @@ Frontend developer who likes breaking down hard problems
 and building things that actually work.
 
 Currently a third-year Software Engineering student 
-with three live shipped projects — a hotel management 
+with three live shipped projects, a hotel management 
 dashboard, a pizza ordering app, and an anime discovery 
 platform. All built with React, Typescript and Supabase.
 
