@@ -6,8 +6,7 @@ and building things that actually work.
 Currently a third-year Software Engineering student 
 with three live shipped projects — a hotel management 
 dashboard, a pizza ordering app, and an anime discovery 
-platform. All built with React and TypeScript, all 
-deployed, all real.
+platform. All built with React, Typescript and Supabase.
 
 **Stack:** React · TypeScript · Supabase · TanStack Query 
 · Redux Toolkit · Tailwind CSS · Zod · Vercel
